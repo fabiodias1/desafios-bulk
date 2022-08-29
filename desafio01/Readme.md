@@ -28,10 +28,10 @@ B) Qual os 5 hosts que mais fizeram requisições?
 
 Explicar/Apresentar a solução desenvolvida.  
 
-### Links com o Dataset
+### Urls com as bases de dados [Dataset]
 
-[https://github.com/fabiodias1/desafios-bulk/desafio1/data/blob/master/NASA_access_log_Aug95.gz](https://github.com/fabiodias1/desafios-bulk/desafio1/data/blob/master/NASA_access_log_Aug95.gz)
-[https://github.com/fabiodias1/desafios-bulk/desafio1/data/blob/master/NASA_access_log_Jul95.gz](https://github.com/fabiodias1/desafios-bulk/desafio1/data/blob/master/NASA_access_log_Jul95.gz)
+- [https://github.com/fabiodias1/desafios-bulk/desafio1/data/blob/master/NASA_access_log_Aug95.gz](https://github.com/fabiodias1/desafios-bulk/desafio1/data/blob/master/NASA_access_log_Aug95.gz)
+- [https://github.com/fabiodias1/desafios-bulk/desafio1/data/blob/master/NASA_access_log_Jul95.gz](https://github.com/fabiodias1/desafios-bulk/desafio1/data/blob/master/NASA_access_log_Jul95.gz)
 
 ##  Fonte original do dataset
 
