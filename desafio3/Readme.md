@@ -41,8 +41,11 @@ Desenvolver um shell script:
 
 ## Links
 
-* Base de dados
-*![https://download.inep.gov.br/microdados/microdados_enem_2020.zip](https://download.inep.gov.br/microdados/microdados_enem_2020.zip)
+* Base de dados:  
+    ![https://download.inep.gov.br/microdados/microdados_enem_2020.zip](https://download.inep.gov.br/microdados/microdados_enem_2020.zip)
+    
+* Web Terminal no cluster do Databricks:  
+    ![https://docs.databricks.com/clusters/web-terminal.html](https://docs.databricks.com/clusters/web-terminal.html)
 
 ## Dicas
 
